@@ -1,0 +1,5 @@
+^PELMO_installeR_.*.tar.gz
+^GNUmakefile$
+^build.log$
+^test.log$
+^docs$

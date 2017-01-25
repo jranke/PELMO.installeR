@@ -1,0 +1,16 @@
+Package: PELMO.installeR
+Type: Package
+Title: Install FOCUS PELMO into an R library location
+Version: 0.1-1
+Date: 2017-01-25
+Authors@R: person("Johannes Ranke", email = "jranke@uni-bremen.de", 
+                  role = c("aut", "cre", "cph"))
+Description: The only function in this package downloads 'FOCUS PELMO' from the 
+  official website and installs it into the installation directory of this package.
+SystemRequirements: wine
+OS_type: unix
+Imports: clipr
+License: GPL
+LazyLoad: yes
+LazyData: yes
+RoxygenNote: 5.0.1.9000
