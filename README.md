@@ -2,7 +2,7 @@
 
 The R package **PELMO.installeR** provides a way to install 
 [FOCUS PELMO](http://esdac.jrc.ec.europa.eu/projects/pelmo)
-in a standardised way on unix system for use with 
+in a standardised way on Linux/Unix systems for use with 
 [wine](https://www.winehq.org).
 
 ## Note
