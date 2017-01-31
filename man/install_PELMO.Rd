@@ -8,6 +8,8 @@ install_PELMO(version = "5.5.3", local_zip = NULL)
 }
 \arguments{
 \item{version}{The FOCUS PELMO version to install}
+
+\item{local_zip}{Do not download, but use the local zip archive specified here}
 }
 \description{
 Download FOCUS PELMO from the official site and unzip into the package installation directory

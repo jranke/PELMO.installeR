@@ -2,6 +2,7 @@
 #'
 #' @importFrom clipr write_clip
 #' @param version The FOCUS PELMO version to install
+#' @param local_zip Do not download, but use the local zip archive specified here
 #' @export
 install_PELMO <- function(version = "5.5.3", local_zip = NULL) {
   pkg_dir <- system.file(package = "PELMO.installeR")
