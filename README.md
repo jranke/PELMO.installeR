@@ -8,8 +8,8 @@ in a standardised way on Linux/Unix systems for use with
 ## Note
 
 If you (re)install this package, you will have to
-[(re)install PELMO](http://jranke.github.io/PELMO.installeR/reference/install_PELMO.html) afterwards.
+[(re)install PELMO](https://pkgdown.jrwb.de/PELMO.installeR/reference/install_PELMO.html) afterwards.
 
 ## Use
 
-Please refer to the [reference](http://pkgdown.jrwb.de/PELMO.installeR/reference/index.html).
+Please refer to the [reference](https://pkgdown.jrwb.de/PELMO.installeR/reference/index.html).
