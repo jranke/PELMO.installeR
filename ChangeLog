@@ -1,4 +1,34 @@
-commit 147cba00160380874987a00b417eac5bea562010
+commit 5a60a334a61dde923a131d8798d6fa03f38525b2
+Author: Johannes Ranke <jranke@uni-bremen.de>
+Date:   2017-03-15 09:50:29 +0100
+
+    Rebuild pkgdown
+
+commit 991c0078dc3e6e082d32e8657698af1c2ffaceba
+Author: Johannes Ranke <jranke@uni-bremen.de>
+Date:   2017-03-15 09:47:43 +0100
+
+    Change doc location to pkgdown.jrwb.de
+
+commit d4dce210ca772fba8cab7dcbef74b242c98da050
+Author: Johannes Ranke <jranke@uni-bremen.de>
+Date:   2017-03-06 17:49:25 +0100
+
+    Move static docs to pkgdown.jrwb.de
+
+commit 2454dd9077f1d499549791a774687f12c87aeb8e
+Author: Johannes Ranke <jranke@uni-bremen.de>
+Date:   2017-01-31 07:42:39 +0100
+
+    Document all arguments of install_PELMO
+
+commit 5cf14fe9a9fe15e866529ebde14492b56645f6b7
+Author: Johannes Ranke <jranke@uni-bremen.de>
+Date:   2017-01-31 07:40:09 +0100
+
+    Remove winbuilder target, documentation fix.
+
+commit 4f4cd07a9ef72c53bbfa53eda835f19dc9f9ad72
 Author: Johannes Ranke <jranke@uni-bremen.de>
 Date:   2017-01-25 18:39:48 +0100
 
