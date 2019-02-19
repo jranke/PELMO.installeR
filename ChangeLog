@@ -1,3 +1,9 @@
+commit 4797fe2021dc0f05cc0da266e802c513ac543927
+Author: Johannes Ranke <jranke@uni-bremen.de>
+Date:   2018-03-01 11:44:10 +0100
+
+    Update static docs using current pkdown
+
 commit 5a60a334a61dde923a131d8798d6fa03f38525b2
 Author: Johannes Ranke <jranke@uni-bremen.de>
 Date:   2017-03-15 09:50:29 +0100

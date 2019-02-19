@@ -1,6 +1,7 @@
 #' Download FOCUS PELMO from the official site and unzip into the package installation directory
 #'
 #' @importFrom clipr write_clip
+#' @importFrom utils download.file unzip
 #' @param version The FOCUS PELMO version to install
 #' @param local_zip Do not download, but use the local zip archive specified here
 #' @export

@@ -2,3 +2,5 @@
 
 export(install_PELMO)
 importFrom(clipr,write_clip)
+importFrom(utils,download.file)
+importFrom(utils,unzip)

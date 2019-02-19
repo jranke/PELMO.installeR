@@ -34,8 +34,8 @@ $(TGZ): $(pkgfiles)
 build: $(TGZ)
 
 check: build
-	@echo "Running CRAN check..."
-	"$(R_HOME)/bin/R" CMD check --as-cran $(TGZ)
+	@echo "Running check..."
+	"$(R_HOME)/bin/R" CMD check $(TGZ)
 	@echo "DONE."
 
 install: build
