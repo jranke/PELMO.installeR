@@ -13,4 +13,5 @@ Imports: clipr
 License: GPL
 LazyLoad: yes
 LazyData: yes
+URL: https://github.com/jranke/PELMO.installeR
 RoxygenNote: 6.1.1
